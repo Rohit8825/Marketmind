@@ -34,7 +34,7 @@ Visualization: Matplotlib, Seaborn
 Clone the repository:
 
 Bash
-git clone https://github.com/piyushag12345/stock_prediction.git
+git clone https://github.com/Rohit8825/stock_prediction.git
 cd stock_prediction
 Create a virtual environment (recommended):
 
