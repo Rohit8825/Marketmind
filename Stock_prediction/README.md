@@ -34,11 +34,6 @@ Visualization: Matplotlib, Seaborn
 Clone the repository:
 
 Bash
-git clone https://github.com/Rohit8825/stock_prediction.git
-cd stock_prediction
-Create a virtual environment (recommended):
-
-Bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies:
